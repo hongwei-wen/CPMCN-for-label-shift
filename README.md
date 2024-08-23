@@ -17,8 +17,8 @@ We basically follow the code structure of the paper [1]. To be specific, we trai
 
 [1] Alexandari, Amr, Anshul Kundaje, and Avanti Shrikumar. "Maximum likelihood with bias-corrected calibration is hard-to-beat at label shift adaptation." International Conference on Machine Learning. PMLR, 2020.
 
-(II) Illustrative Experiments:
-1. For plotting the training curve, please run "./Illustrative_experiments/training_curve/notebook_CIFAR100_tweakone/CIFAR100_exp1225run1.py".
+(II) Other_experiments_for_illustration:
+1. For plotting the training curve, please run "./Other_experiments_for_illustration/training_curve/notebook_CIFAR100_tweakone/CIFAR100_exp1225run1.py".
 
-2. To compare the computational complexity of CPMCN solved by the BFGS optimizer to FPM-based methods, please run  "./Illustrative_experiments/runtime_of_solving_by_BFGS/notebook_CIFAR100_dirichlet/CIFAR100_exp1225run1.py".
+2. To compare the computational complexity of CPMCN solved by the BFGS optimizer to FPM-based methods, please run  "./Other_experiments_for_illustration/runtime_of_solving_by_BFGS/notebook_CIFAR100_dirichlet/CIFAR100_exp1225run1.py".
 
